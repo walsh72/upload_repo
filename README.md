@@ -1,3 +1,3 @@
-# project 
+# upload_repo
 
-Some text
+1. open index.html in your browser
